@@ -1,0 +1,12 @@
+{
+  "name": "todomvc",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "XWebpack": "3examan/xwebpack"
+  },
+  "dependencies": {},
+  "scripts": {
+    "build": "xwebpack"
+  }
+}
